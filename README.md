@@ -11,4 +11,5 @@ This is a variation of the Hamiltonian Path problem applied to a rectangular gri
 ## Example
 
 Grid:
-A . X\n. . .\nX . B
+"A . . . \n. . . . \n. . . .\nx . . B"
+expected result is 4
